@@ -46,6 +46,13 @@
       "rating": 5,
       "comment": "",
       "timestamp": "2026-07-08T18:19:53.907Z"
+    },
+    {
+      "id": "feedback-1783534817565",
+      "conversationId": "ed4e9480-7a3a-48b1-876b-bb77cc270167",
+      "rating": 2,
+      "comment": "",
+      "timestamp": "2026-07-08T18:20:17.565Z"
     }
   ],
   "metadata": {
