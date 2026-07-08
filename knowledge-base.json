@@ -6,8 +6,8 @@
     "totalQuestions": 1,
     "totalAnswers": 0,
     "totalTopics": 0,
-    "aiSaves": 1,
-    "totalCostSaved": 0.02,
+    "aiSaves": 0,
+    "totalCostSaved": 0,
     "totalFacts": 0,
     "uniqueFacts": 0,
     "compressedFacts": 0
@@ -18,22 +18,14 @@
   "learnedFacts": [],
   "commonQuestions": [
     {
-      "question": "تقييم إيجابي للرد",
-      "answer": "سؤال: ما هي الملاحظات الأولى التي جاءت ببالك بعد قراءة المراجع الثلاث؟",
+      "question": "ما تقييمك للمراجع؟",
+      "answer": "سؤال: كيف يمكننا تقييم المراجع دون وجود محتوى متوفر؟ هل يمكننا الاعتماد على العناوين فقط؟",
       "frequency": 1,
       "topics": [],
-      "confidence": 1
+      "confidence": 0.5
     }
   ],
-  "feedback": [
-    {
-      "id": "feedback-1783534106860",
-      "conversationId": "5bdc48f6-087d-4ebc-bf76-691a2b06aede",
-      "rating": 4,
-      "comment": "",
-      "timestamp": "2026-07-08T18:08:26.860Z"
-    }
-  ],
+  "feedback": [],
   "metadata": {
     "createdAt": "1970-01-01T00:00:00.000Z",
     "updatedAt": "1970-01-01T00:00:00.000Z",
@@ -44,6 +36,6 @@
     "topics": {},
     "phrases": {},
     "similarityMap": {},
-    "lastIndexed": "2026-07-08T18:08:27.913Z"
+    "lastIndexed": "2026-07-08T18:18:59.028Z"
   }
 }
