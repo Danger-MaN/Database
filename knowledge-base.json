@@ -1,84 +1,58 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-08T18:30:00.000Z",
+  "lastUpdated": "2026-07-08T18:33:43.000Z",
   "statistics": {
-    "totalConversations": 5,
-    "totalQuestions": 5,
-    "totalAnswers": 4,
-    "totalTopics": 1,
-    "aiSaves": 2,
-    "totalCostSaved": 0.04,
-    "totalFacts": 3,
-    "uniqueFacts": 2,
+    "totalConversations": 1,
+    "totalQuestions": 1,
+    "totalAnswers": 1,
+    "totalTopics": 0,
+    "aiSaves": 0,
+    "totalCostSaved": 0,
+    "totalFacts": 0,
+    "uniqueFacts": 0,
     "compressedFacts": 0
   },
-  "topics": {
-    "المراجع والمصادر": {
-      "name": "المراجع والمصادر",
-      "answers": [
-        "سؤال: هل يمكننا استعراض المراجع الثلاث التي تم توفيرها؟\n\n1. Leonardo da Vinci (مصدر أساسي)\n2. مرجع أساسي 2 (مصدر أساسي)\n3. Leonardo da Vinci 2 (مرجع مستخدم)"
-      ],
-      "confidence": 0.65,
-      "usageCount": 2,
-      "successRate": 0.85,
-      "lastUpdated": "2026-07-08T18:20:57.149Z"
-    }
-  },
+  "topics": {},
   "patterns": [],
   "conversations": [
     {
-      "id": "conv-1",
-      "userMessage": "ما هي المراجع التي لدينا؟",
-      "aiResponse": "لديك 3 مراجع في النظام...",
-      "timestamp": "2026-07-08T18:00:00.000Z",
-      "topics": ["المراجع والمصادر"],
-      "quality": 0.8
+      "id": "conv-1783535623000-r3y3z",
+      "userMessage": "ما هو دورك هنا ؟",
+      "aiResponse": "سؤال: هل يمكنك شرح دورك السقراطي في هذه المحادثة؟",
+      "timestamp": "2026-07-08T18:33:43.000Z",
+      "topics": [],
+      "quality": 0.3,
+      "confidence": 0.3
     }
   ],
-  "learnedFacts": [
-    {
-      "id": "fact-1",
-      "fact": "يوجد 3 مراجع في النظام",
-      "confidence": 0.9,
-      "topics": ["المراجع والمصادر"],
-      "verified": false,
-      "timestamp": "2026-07-08T18:00:00.000Z"
-    }
-  ],
+  "learnedFacts": [],
   "commonQuestions": [
     {
-      "question": "ما هي المراجع التي لدينا؟",
-      "answer": "سؤال: هل يمكننا استعراض المراجع الثلاث التي تم توفيرها؟\n\n1. Leonardo da Vinci (مصدر أساسي)\n2. مرجع أساسي 2 (مصدر أساسي)\n3. Leonardo da Vinci 2 (مرجع مستخدم)",
+      "question": "ما هو دورك هنا ؟",
+      "answer": "سؤال: هل يمكنك شرح دورك السقراطي في هذه المحادثة؟",
       "frequency": 1,
-      "topics": ["المراجع والمصادر"],
-      "confidence": 0.7
+      "topics": [],
+      "confidence": 0.5
     }
   ],
-  "feedback": [
-    {
-      "id": "feedback-1783534793907",
-      "conversationId": "f334ec57-a04e-490f-a9de-66b5f8190608",
-      "rating": 5,
-      "comment": "",
-      "timestamp": "2026-07-08T18:19:53.907Z"
-    }
-  ],
+  "feedback": [],
   "metadata": {
-    "createdAt": "2026-07-08T18:00:00.000Z",
-    "updatedAt": "2026-07-08T18:30:00.000Z",
-    "totalInteractions": 5
+    "createdAt": "2026-07-08T18:33:43.000Z",
+    "updatedAt": "2026-07-08T18:33:43.000Z",
+    "totalInteractions": 1
   },
   "index": {
     "keywords": {
-      "المراجع": ["المراجع والمصادر"],
-      "leonardo": ["المراجع والمصادر"],
-      "vinci": ["المراجع والمصادر"]
+      "دورك": [
+        "ما هو دورك هنا ؟"
+      ],
+      "هنا": [
+        "ما هو دورك هنا ؟"
+      ]
     },
-    "topics": {
-      "المراجع والمصادر": ["المراجع والمصادر"]
-    },
+    "topics": {},
     "phrases": {},
     "similarityMap": {},
-    "lastIndexed": "2026-07-08T18:30:00.000Z"
+    "lastIndexed": "2026-07-08T18:33:43.000Z"
   }
 }
