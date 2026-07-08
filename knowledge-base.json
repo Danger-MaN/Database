@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-08T18:34:30.843Z",
+  "lastUpdated": "2026-07-08T18:34:41.533Z",
   "statistics": {
     "totalConversations": 2,
     "totalQuestions": 2,
@@ -58,11 +58,18 @@
       "rating": 2,
       "comment": "",
       "timestamp": "2026-07-08T18:34:06.190Z"
+    },
+    {
+      "id": "feedback-1783535681533",
+      "conversationId": "f743b839-ed55-40d8-bce8-dd50f465678c",
+      "rating": 2,
+      "comment": "",
+      "timestamp": "2026-07-08T18:34:41.533Z"
     }
   ],
   "metadata": {
     "createdAt": "2026-07-08T18:33:43.000Z",
-    "updatedAt": "2026-07-08T18:34:30.843Z",
+    "updatedAt": "2026-07-08T18:34:41.533Z",
     "totalInteractions": 2
   },
   "index": {
