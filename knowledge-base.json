@@ -18,8 +18,8 @@
   "learnedFacts": [],
   "commonQuestions": [
     {
-      "question": "ما تقييمك للمراجع؟",
-      "answer": "سؤال: كيف يمكننا تقييم المراجع دون وجود محتوى متوفر؟ هل يمكننا الاعتماد على العناوين فقط؟",
+      "question": "هل لديك مراجع ؟",
+      "answer": "حسناً. الإجابة هي: 3 مراجع متاحة في النظام.",
       "frequency": 1,
       "topics": [],
       "confidence": 0.5
@@ -36,6 +36,6 @@
     "topics": {},
     "phrases": {},
     "similarityMap": {},
-    "lastIndexed": "2026-07-08T18:18:59.028Z"
+    "lastIndexed": "2026-07-08T18:19:32.917Z"
   }
 }
