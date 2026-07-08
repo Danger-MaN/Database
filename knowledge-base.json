@@ -2,8 +2,8 @@
   "version": "1.0",
   "lastUpdated": "1970-01-01T00:00:00.000Z",
   "statistics": {
-    "totalConversations": 1,
-    "totalQuestions": 1,
+    "totalConversations": 2,
+    "totalQuestions": 2,
     "totalAnswers": 0,
     "totalTopics": 0,
     "aiSaves": 1,
@@ -23,6 +23,13 @@
       "frequency": 1,
       "topics": [],
       "confidence": 0.5
+    },
+    {
+      "question": "تقييم إيجابي للرد",
+      "answer": "حسناً. الإجابة هي: 3 مراجع متاحة في النظام.",
+      "frequency": 1,
+      "topics": [],
+      "confidence": 1
     }
   ],
   "feedback": [
@@ -44,6 +51,6 @@
     "topics": {},
     "phrases": {},
     "similarityMap": {},
-    "lastIndexed": "2026-07-08T18:19:32.917Z"
+    "lastIndexed": "2026-07-08T18:19:54.869Z"
   }
 }
