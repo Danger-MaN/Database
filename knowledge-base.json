@@ -6,8 +6,8 @@
     "totalQuestions": 4,
     "totalAnswers": 0,
     "totalTopics": 1,
-    "aiSaves": 1,
-    "totalCostSaved": 0.02,
+    "aiSaves": 2,
+    "totalCostSaved": 0.04,
     "totalFacts": 0,
     "uniqueFacts": 0,
     "compressedFacts": 0
@@ -18,9 +18,9 @@
       "answers": [
         "سؤال: هل يمكننا استعراض المراجع الثلاث التي تم توفيرها؟\n\n1. Leonardo da Vinci (مصدر أساسي)\n2. مرجع أساسي 2 (مصدر أساسي)\n3. Leonardo da Vinci 2 (مرجع مستخدم)"
       ],
-      "confidence": 0.55,
+      "confidence": 0.6000000000000001,
       "usageCount": 1,
-      "successRate": 0.7,
+      "successRate": 1,
       "lastUpdated": "2026-07-08T18:20:45.924Z"
     }
   },
@@ -73,6 +73,13 @@
       "rating": 2,
       "comment": "",
       "timestamp": "2026-07-08T18:20:17.565Z"
+    },
+    {
+      "id": "feedback-1783534856261",
+      "conversationId": "b5bb14ec-3c60-49af-bbf6-553c7b121b75",
+      "rating": 5,
+      "comment": "",
+      "timestamp": "2026-07-08T18:20:56.261Z"
     }
   ],
   "metadata": {
