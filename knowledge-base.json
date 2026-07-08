@@ -1,13 +1,13 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-08T18:35:00.141Z",
+  "lastUpdated": "2026-07-08T18:35:27.315Z",
   "statistics": {
     "totalConversations": 3,
     "totalQuestions": 3,
     "totalAnswers": 3,
     "totalTopics": 0,
-    "aiSaves": 0,
-    "totalCostSaved": 0,
+    "aiSaves": 1,
+    "totalCostSaved": 0.02,
     "totalFacts": 0,
     "uniqueFacts": 0,
     "compressedFacts": 0
@@ -81,11 +81,18 @@
       "rating": 2,
       "comment": "",
       "timestamp": "2026-07-08T18:34:41.533Z"
+    },
+    {
+      "id": "feedback-1783535727315",
+      "conversationId": "6fde4414-ea9a-4fd7-90ed-526941d55b3a",
+      "rating": 4,
+      "comment": "",
+      "timestamp": "2026-07-08T18:35:27.315Z"
     }
   ],
   "metadata": {
     "createdAt": "2026-07-08T18:33:43.000Z",
-    "updatedAt": "2026-07-08T18:35:00.141Z",
+    "updatedAt": "2026-07-08T18:35:27.315Z",
     "totalInteractions": 3
   },
   "index": {
