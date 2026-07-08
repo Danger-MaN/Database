@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "lastUpdated": "1970-01-01T00:00:00.000Z",
+  "lastUpdated": "2026-07-08T18:30:00.000Z",
   "statistics": {
     "totalConversations": 5,
     "totalQuestions": 5,
-    "totalAnswers": 0,
+    "totalAnswers": 4,
     "totalTopics": 1,
     "aiSaves": 2,
     "totalCostSaved": 0.04,
-    "totalFacts": 0,
-    "uniqueFacts": 0,
+    "totalFacts": 3,
+    "uniqueFacts": 2,
     "compressedFacts": 0
   },
   "topics": {
@@ -18,47 +18,40 @@
       "answers": [
         "سؤال: هل يمكننا استعراض المراجع الثلاث التي تم توفيرها؟\n\n1. Leonardo da Vinci (مصدر أساسي)\n2. مرجع أساسي 2 (مصدر أساسي)\n3. Leonardo da Vinci 2 (مرجع مستخدم)"
       ],
-      "confidence": 0.6500000000000001,
+      "confidence": 0.65,
       "usageCount": 2,
       "successRate": 0.85,
       "lastUpdated": "2026-07-08T18:20:57.149Z"
     }
   },
   "patterns": [],
-  "conversations": [],
-  "learnedFacts": [],
+  "conversations": [
+    {
+      "id": "conv-1",
+      "userMessage": "ما هي المراجع التي لدينا؟",
+      "aiResponse": "لديك 3 مراجع في النظام...",
+      "timestamp": "2026-07-08T18:00:00.000Z",
+      "topics": ["المراجع والمصادر"],
+      "quality": 0.8
+    }
+  ],
+  "learnedFacts": [
+    {
+      "id": "fact-1",
+      "fact": "يوجد 3 مراجع في النظام",
+      "confidence": 0.9,
+      "topics": ["المراجع والمصادر"],
+      "verified": false,
+      "timestamp": "2026-07-08T18:00:00.000Z"
+    }
+  ],
   "commonQuestions": [
     {
-      "question": "تقييم إيجابي للرد",
-      "answer": "سؤال: هل يمكننا استعراض المراجع الثلاث التي تم توفيرها؟\n\n1. Leonardo da Vinci (مصدر أساسي)\n2. مرجع أساسي 2 (مصدر أساسي)\n3. Leonardo da Vinci 2 (مرجع مستخدم)",
-      "frequency": 2,
-      "topics": [
-        "المراجع والمصادر"
-      ],
-      "confidence": 1
-    },
-    {
-      "question": "هل لديك مراجع ؟",
-      "answer": "حسناً. الإجابة هي: 3 مراجع متاحة في النظام.",
-      "frequency": 1,
-      "topics": [],
-      "confidence": 0.5
-    },
-    {
-      "question": "ما هي تلك المراجع لديك ؟",
-      "answer": "سؤال: يمكنك سرد العناوين والعدد للمراجع الثلاث؟",
-      "frequency": 1,
-      "topics": [],
-      "confidence": 0.5
-    },
-    {
-      "question": "ما هي المراجع التي لدينا ؟",
+      "question": "ما هي المراجع التي لدينا؟",
       "answer": "سؤال: هل يمكننا استعراض المراجع الثلاث التي تم توفيرها؟\n\n1. Leonardo da Vinci (مصدر أساسي)\n2. مرجع أساسي 2 (مصدر أساسي)\n3. Leonardo da Vinci 2 (مرجع مستخدم)",
       "frequency": 1,
-      "topics": [
-        "المراجع والمصادر"
-      ],
-      "confidence": 0.5
+      "topics": ["المراجع والمصادر"],
+      "confidence": 0.7
     }
   ],
   "feedback": [
@@ -68,82 +61,24 @@
       "rating": 5,
       "comment": "",
       "timestamp": "2026-07-08T18:19:53.907Z"
-    },
-    {
-      "id": "feedback-1783534817565",
-      "conversationId": "ed4e9480-7a3a-48b1-876b-bb77cc270167",
-      "rating": 2,
-      "comment": "",
-      "timestamp": "2026-07-08T18:20:17.565Z"
-    },
-    {
-      "id": "feedback-1783534856261",
-      "conversationId": "b5bb14ec-3c60-49af-bbf6-553c7b121b75",
-      "rating": 5,
-      "comment": "",
-      "timestamp": "2026-07-08T18:20:56.261Z"
     }
   ],
   "metadata": {
-    "createdAt": "1970-01-01T00:00:00.000Z",
-    "updatedAt": "1970-01-01T00:00:00.000Z",
-    "totalInteractions": 0
+    "createdAt": "2026-07-08T18:00:00.000Z",
+    "updatedAt": "2026-07-08T18:30:00.000Z",
+    "totalInteractions": 5
   },
   "index": {
     "keywords": {
-      "سؤال:": [
-        "المراجع والمصادر"
-      ],
-      "يمكننا": [
-        "المراجع والمصادر"
-      ],
-      "استعراض": [
-        "المراجع والمصادر"
-      ],
-      "المراجع": [
-        "المراجع والمصادر"
-      ],
-      "الثلاث": [
-        "المراجع والمصادر"
-      ],
-      "التي": [
-        "المراجع والمصادر"
-      ],
-      "توفيرها؟": [
-        "المراجع والمصادر"
-      ],
-      "leonardo": [
-        "المراجع والمصادر"
-      ],
-      "vinci": [
-        "المراجع والمصادر"
-      ],
-      "(مصدر": [
-        "المراجع والمصادر"
-      ],
-      "أساسي)": [
-        "المراجع والمصادر"
-      ],
-      "مرجع": [
-        "المراجع والمصادر"
-      ],
-      "أساسي": [
-        "المراجع والمصادر"
-      ],
-      "(مرجع": [
-        "المراجع والمصادر"
-      ],
-      "مستخدم)": [
-        "المراجع والمصادر"
-      ]
+      "المراجع": ["المراجع والمصادر"],
+      "leonardo": ["المراجع والمصادر"],
+      "vinci": ["المراجع والمصادر"]
     },
     "topics": {
-      "المراجع والمصادر": [
-        "المراجع والمصادر"
-      ]
+      "المراجع والمصادر": ["المراجع والمصادر"]
     },
     "phrases": {},
     "similarityMap": {},
-    "lastIndexed": "2026-07-08T18:20:57.149Z"
+    "lastIndexed": "2026-07-08T18:30:00.000Z"
   }
 }
