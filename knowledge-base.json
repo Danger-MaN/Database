@@ -1,21 +1,51 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-08",
+  "lastUpdated": "1970-01-01T00:00:00.000Z",
   "statistics": {
-    "totalConversations": 0,
-    "totalQuestions": 0,
+    "totalConversations": 1,
+    "totalQuestions": 1,
     "totalAnswers": 0,
-    "totalTopics": 0
+    "totalTopics": 0,
+    "aiSaves": 0,
+    "totalCostSaved": 0,
+    "totalFacts": 0,
+    "uniqueFacts": 0,
+    "compressedFacts": 0
   },
   "topics": {},
   "patterns": [],
   "conversations": [],
   "learnedFacts": [],
-  "commonQuestions": [],
+  "commonQuestions": [
+    {
+      "question": "ما تقييمك لهذه المراجع ؟",
+      "answer": "لا أستطيع تقييم هذه المراجع حالياً لأن المحتوى غير متوفر. هل يمكنك توفير المحتوى الموجود في هذه المراجع؟",
+      "frequency": 1,
+      "topics": [],
+      "confidence": 0.5
+    }
+  ],
   "feedback": [],
   "metadata": {
-    "createdAt": "2026-07-08T00:00:00.000Z",
-    "updatedAt": "2026-07-08T00:00:00.000Z",
+    "createdAt": "1970-01-01T00:00:00.000Z",
+    "updatedAt": "1970-01-01T00:00:00.000Z",
     "totalInteractions": 0
+  },
+  "index": {
+    "keywords": {
+      "تقييمك": [
+        "ما تقييمك لهذه المراجع ؟"
+      ],
+      "لهذه": [
+        "ما تقييمك لهذه المراجع ؟"
+      ],
+      "المراجع": [
+        "ما تقييمك لهذه المراجع ؟"
+      ]
+    },
+    "topics": {},
+    "phrases": {},
+    "similarityMap": {},
+    "lastIndexed": "2026-07-08T17:45:23.840Z"
   }
 }
