@@ -6,8 +6,8 @@
     "totalQuestions": 1,
     "totalAnswers": 0,
     "totalTopics": 0,
-    "aiSaves": 0,
-    "totalCostSaved": 0,
+    "aiSaves": 1,
+    "totalCostSaved": 0.02,
     "totalFacts": 0,
     "uniqueFacts": 0,
     "compressedFacts": 0
@@ -25,7 +25,15 @@
       "confidence": 0.5
     }
   ],
-  "feedback": [],
+  "feedback": [
+    {
+      "id": "feedback-1783534793907",
+      "conversationId": "f334ec57-a04e-490f-a9de-66b5f8190608",
+      "rating": 5,
+      "comment": "",
+      "timestamp": "2026-07-08T18:19:53.907Z"
+    }
+  ],
   "metadata": {
     "createdAt": "1970-01-01T00:00:00.000Z",
     "updatedAt": "1970-01-01T00:00:00.000Z",
