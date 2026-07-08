@@ -2,8 +2,8 @@
   "version": "1.0",
   "lastUpdated": "1970-01-01T00:00:00.000Z",
   "statistics": {
-    "totalConversations": 2,
-    "totalQuestions": 2,
+    "totalConversations": 3,
+    "totalQuestions": 3,
     "totalAnswers": 0,
     "totalTopics": 0,
     "aiSaves": 1,
@@ -30,6 +30,13 @@
       "frequency": 1,
       "topics": [],
       "confidence": 1
+    },
+    {
+      "question": "ما هي تلك المراجع لديك ؟",
+      "answer": "سؤال: يمكنك سرد العناوين والعدد للمراجع الثلاث؟",
+      "frequency": 1,
+      "topics": [],
+      "confidence": 0.5
     }
   ],
   "feedback": [
@@ -51,6 +58,6 @@
     "topics": {},
     "phrases": {},
     "similarityMap": {},
-    "lastIndexed": "2026-07-08T18:19:54.869Z"
+    "lastIndexed": "2026-07-08T18:19:58.454Z"
   }
 }
