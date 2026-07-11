@@ -7,18 +7,6 @@
       "isPublic": false,
       "references": [
         {
-          "id": "ref-1783794015575-yess2",
-          "title": "علم النبات",
-          "url": "https://researcher.by-magdi.workers.dev/projects/fff5c6a3-b085-43fb-81e0-219f4b826634",
-          "author": "ادم",
-          "year": 2026,
-          "type": "website",
-          "citation": "ادم (2026). علم النبات. تم الاسترجاع من https://researcher.by-magdi.workers.dev/projects/fff5c6a3-b085-43fb-81e0-219f4b826634",
-          "notes": "اختياري",
-          "projectId": "c06da88c-2321-4056-910f-a97b66205942",
-          "addedAt": "2026-07-11T18:20:15.575Z"
-        },
-        {
           "id": "ref-1783794282930-qxnrh",
           "title": "https://researcher.by-magdi.workers.dev/projects/c06da88c-2321-4056-910f-a97b66205942",
           "url": "https://researcher.by-magdi.workers.dev/projects/c06da88c-2321-4056-910f-a97b66205942",
@@ -42,11 +30,10 @@
         }
       ],
       "citations": {
-        "ref-1783794015575-yess2": "ادم (2026). علم النبات. تم الاسترجاع من https://researcher.by-magdi.workers.dev/projects/fff5c6a3-b085-43fb-81e0-219f4b826634",
         "ref-1783794282930-qxnrh": "مؤلف غير معروف (س.د). https://researcher.by-magdi.workers.dev/projects/c06da88c-2321-4056-910f-a97b66205942. تم الاسترجاع من https://researcher.by-magdi.workers.dev/projects/c06da88c-2321-4056-910f-a97b66205942",
         "ref-1783794282930-lyrpl": "مؤلف غير معروف (س.د). https://researcher.by-magdi.workers.dev/projects/c06da88c-2321-4056-910f-a97b66205942. تم الاسترجاع من https://researcher.by-magdi.workers.dev/projects/c06da88c-2321-4056-910f-a97b66205942"
       },
-      "lastUpdated": "2026-07-11T18:24:42.930Z"
+      "lastUpdated": "2026-07-11T18:33:34.372Z"
     }
   }
 }
