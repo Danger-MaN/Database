@@ -5,9 +5,23 @@
       "projectId": "fff5c6a3-b085-43fb-81e0-219f4b826634",
       "projectTitle": "نبات",
       "isPublic": false,
-      "references": [],
-      "citations": {},
-      "lastUpdated": "2026-07-11T18:08:57.484Z"
+      "references": [
+        {
+          "id": "ref-1783793827593-ea2kv",
+          "title": "https://researcher.by-magdi.workers.dev/projects/fff5c6a3-b085-43fb-81e0-219f4b826634",
+          "url": "https://researcher.by-magdi.workers.dev/projects/fff5c6a3-b085-43fb-81e0-219f4b826634",
+          "author": "",
+          "type": "website",
+          "citation": "مؤلف غير معروف (س.د). https://researcher.by-magdi.workers.dev/projects/fff5c6a3-b085-43fb-81e0-219f4b826634. تم الاسترجاع من https://researcher.by-magdi.workers.dev/projects/fff5c6a3-b085-43fb-81e0-219f4b826634",
+          "notes": "",
+          "projectId": "fff5c6a3-b085-43fb-81e0-219f4b826634",
+          "addedAt": "2026-07-11T18:17:07.593Z"
+        }
+      ],
+      "citations": {
+        "ref-1783793827593-ea2kv": "مؤلف غير معروف (س.د). https://researcher.by-magdi.workers.dev/projects/fff5c6a3-b085-43fb-81e0-219f4b826634. تم الاسترجاع من https://researcher.by-magdi.workers.dev/projects/fff5c6a3-b085-43fb-81e0-219f4b826634"
+      },
+      "lastUpdated": "2026-07-11T18:17:07.593Z"
     }
   }
 }
