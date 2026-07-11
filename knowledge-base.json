@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-11T15:40:42.314Z",
+  "lastUpdated": "2026-07-11T15:50:31.239Z",
   "statistics": {
     "totalConversations": 1,
     "totalQuestions": 1,
@@ -8,28 +8,38 @@
     "totalTopics": 0,
     "aiSaves": 0,
     "totalCostSaved": 0,
-    "totalFacts": 0,
-    "uniqueFacts": 0,
+    "totalFacts": 1,
+    "uniqueFacts": 1,
     "compressedFacts": 0
   },
   "topics": {},
   "patterns": [],
   "conversations": [
     {
-      "id": "conv-1783784441090-gtrbb",
-      "userMessage": "مساء الخير",
-      "aiResponse": "كيف حالك؟",
-      "timestamp": "2026-07-11T15:40:41.090Z",
+      "id": "conv-1783785031239-chsr5",
+      "userMessage": "عامل ايه ؟",
+      "aiResponse": "لا يوجد شيء محدد يُسمى \"عامل\" في هذا السياق. هل يمكنك تقديم مزيد من السياق أو تفاصيل حول ما تريد السؤال عنه؟",
+      "timestamp": "2026-07-11T15:50:31.239Z",
       "topics": [],
       "quality": 0.3,
       "confidence": 0.3
     }
   ],
-  "learnedFacts": [],
+  "learnedFacts": [
+    {
+      "id": "fact-1783785031239-grysm",
+      "fact": "شيء محدد يُسمى \"عامل\" في هذا السياق",
+      "confidence": 0.7,
+      "topics": [],
+      "verified": false,
+      "timestamp": "2026-07-11T15:50:31.239Z",
+      "source": "conv-1783785031239-chsr5"
+    }
+  ],
   "commonQuestions": [
     {
-      "question": "مساء الخير",
-      "answer": "كيف حالك؟",
+      "question": "عامل ايه ؟",
+      "answer": "لا يوجد شيء محدد يُسمى \"عامل\" في هذا السياق. هل يمكنك تقديم مزيد من السياق أو تفاصيل حول ما تريد السؤال عنه؟",
       "frequency": 1,
       "topics": [],
       "confidence": 0.5
@@ -37,22 +47,22 @@
   ],
   "feedback": [],
   "metadata": {
-    "createdAt": "2026-07-11T15:40:41.090Z",
-    "updatedAt": "2026-07-11T15:40:42.314Z",
+    "createdAt": "2026-07-11T15:50:31.239Z",
+    "updatedAt": "2026-07-11T15:50:31.239Z",
     "totalInteractions": 1
   },
   "index": {
     "keywords": {
-      "مساء": [
-        "مساء الخير"
+      "عامل": [
+        "عامل ايه ؟"
       ],
-      "الخير": [
-        "مساء الخير"
+      "ايه": [
+        "عامل ايه ؟"
       ]
     },
     "topics": {},
     "phrases": {},
     "similarityMap": {},
-    "lastIndexed": "2026-07-11T15:40:41.090Z"
+    "lastIndexed": "2026-07-11T15:50:31.239Z"
   }
 }
