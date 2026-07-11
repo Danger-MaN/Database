@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-11T16:15:26.300Z",
+  "lastUpdated": "2026-07-11T16:15:56.895Z",
   "statistics": {
-    "totalConversations": 1,
-    "totalQuestions": 1,
-    "totalAnswers": 1,
+    "totalConversations": 2,
+    "totalQuestions": 2,
+    "totalAnswers": 2,
     "totalTopics": 0,
     "aiSaves": 0,
     "totalCostSaved": 0,
@@ -23,6 +23,15 @@
       "topics": [],
       "quality": 0.3,
       "confidence": 0.3
+    },
+    {
+      "id": "conv-1783786556895-39zzz",
+      "userMessage": "ما هو دورك هنا ؟",
+      "aiResponse": "دوري هنا دور سقراطي. سأسألك سؤالاً، وستجيب بجواب. ثم سأسألك سؤالاً آخر بناءً على جوابك، وهكذا. هدفنا هو اكتشاف المعرفة معاً. أريد أن أسألك: ما هو الغرض من وجودك هنا؟",
+      "timestamp": "2026-07-11T16:15:56.895Z",
+      "topics": [],
+      "quality": 0.3,
+      "confidence": 0.3
     }
   ],
   "learnedFacts": [],
@@ -33,13 +42,20 @@
       "frequency": 1,
       "topics": [],
       "confidence": 0.5
+    },
+    {
+      "question": "ما هو دورك هنا ؟",
+      "answer": "دوري هنا دور سقراطي. سأسألك سؤالاً، وستجيب بجواب. ثم سأسألك سؤالاً آخر بناءً على جوابك، وهكذا. هدفنا هو اكتشاف المعرفة معاً. أريد أن أسألك: ما هو الغرض من وجودك هنا؟",
+      "frequency": 1,
+      "topics": [],
+      "confidence": 0.5
     }
   ],
   "feedback": [],
   "metadata": {
     "createdAt": "2026-07-11T16:15:25.061Z",
-    "updatedAt": "2026-07-11T16:15:26.300Z",
-    "totalInteractions": 1
+    "updatedAt": "2026-07-11T16:15:56.895Z",
+    "totalInteractions": 2
   },
   "index": {
     "keywords": {
@@ -48,11 +64,17 @@
       ],
       "الخير": [
         "مساء الخير"
+      ],
+      "دورك": [
+        "ما هو دورك هنا ؟"
+      ],
+      "هنا": [
+        "ما هو دورك هنا ؟"
       ]
     },
     "topics": {},
     "phrases": {},
     "similarityMap": {},
-    "lastIndexed": "2026-07-11T16:15:25.061Z"
+    "lastIndexed": "2026-07-11T16:15:56.895Z"
   }
 }
