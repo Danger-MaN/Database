@@ -1,7 +1,7 @@
 {
   "projectId": "c06da88c-2321-4056-910f-a97b66205942",
   "projectTitle": "نبات",
-  "isPublic": false,
+  "isPublic": true,
   "references": [
     {
       "id": "ref-1783795762015-fkxdr",
@@ -19,5 +19,5 @@
   "citations": {
     "ref-1783795762015-fkxdr": "ادم (2026). علم النبات. تم الاسترجاع من https://researcher.by-magdi.workers.dev/projects/c06da88c-2321-4056-910f-a97b66205942"
   },
-  "lastUpdated": "2026-07-11T19:07:37.416Z"
+  "lastUpdated": "2026-07-11T19:12:59.205Z"
 }
