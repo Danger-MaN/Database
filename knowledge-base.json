@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-11T17:21:07.531Z",
+  "lastUpdated": "2026-07-11T17:29:33.153Z",
   "statistics": {
     "totalConversations": 1,
     "totalQuestions": 1,
@@ -16,10 +16,10 @@
   "patterns": [],
   "conversations": [
     {
-      "id": "conv-1783790466430-1cryo",
-      "userMessage": "مساء الخير",
-      "aiResponse": "كيف حالك؟",
-      "timestamp": "2026-07-11T17:21:06.430Z",
+      "id": "conv-1783790973153-4150c",
+      "userMessage": "ما هو دورك هنا ؟",
+      "aiResponse": "دورك السقراطي. سأل قبل أن أجيب. ما هي المهمة التي قمت بها هنا؟",
+      "timestamp": "2026-07-11T17:29:33.153Z",
       "topics": [],
       "quality": 0.3,
       "confidence": 0.3
@@ -28,8 +28,8 @@
   "learnedFacts": [],
   "commonQuestions": [
     {
-      "question": "مساء الخير",
-      "answer": "كيف حالك؟",
+      "question": "ما هو دورك هنا ؟",
+      "answer": "دورك السقراطي. سأل قبل أن أجيب. ما هي المهمة التي قمت بها هنا؟",
       "frequency": 1,
       "topics": [],
       "confidence": 0.5
@@ -37,22 +37,22 @@
   ],
   "feedback": [],
   "metadata": {
-    "createdAt": "2026-07-11T17:21:06.430Z",
-    "updatedAt": "2026-07-11T17:21:07.531Z",
+    "createdAt": "2026-07-11T17:29:33.153Z",
+    "updatedAt": "2026-07-11T17:29:33.153Z",
     "totalInteractions": 1
   },
   "index": {
     "keywords": {
-      "مساء": [
-        "مساء الخير"
+      "دورك": [
+        "ما هو دورك هنا ؟"
       ],
-      "الخير": [
-        "مساء الخير"
+      "هنا": [
+        "ما هو دورك هنا ؟"
       ]
     },
     "topics": {},
     "phrases": {},
     "similarityMap": {},
-    "lastIndexed": "2026-07-11T17:21:06.430Z"
+    "lastIndexed": "2026-07-11T17:29:33.153Z"
   }
 }
