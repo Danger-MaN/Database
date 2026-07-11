@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-11T15:12:28.169Z",
+  "lastUpdated": "2026-07-11T15:40:41.090Z",
   "statistics": {
     "totalConversations": 1,
     "totalQuestions": 1,
@@ -16,10 +16,10 @@
   "patterns": [],
   "conversations": [
     {
-      "id": "conv-1783782746891-tfu1v",
+      "id": "conv-1783784441090-gtrbb",
       "userMessage": "مساء الخير",
-      "aiResponse": "كيف كان يومك؟",
-      "timestamp": "2026-07-11T15:12:26.891Z",
+      "aiResponse": "كيف حالك؟",
+      "timestamp": "2026-07-11T15:40:41.090Z",
       "topics": [],
       "quality": 0.3,
       "confidence": 0.3
@@ -29,7 +29,7 @@
   "commonQuestions": [
     {
       "question": "مساء الخير",
-      "answer": "كيف كان يومك؟",
+      "answer": "كيف حالك؟",
       "frequency": 1,
       "topics": [],
       "confidence": 0.5
@@ -37,8 +37,8 @@
   ],
   "feedback": [],
   "metadata": {
-    "createdAt": "2026-07-11T15:12:26.891Z",
-    "updatedAt": "2026-07-11T15:12:28.169Z",
+    "createdAt": "2026-07-11T15:40:41.090Z",
+    "updatedAt": "2026-07-11T15:40:41.090Z",
     "totalInteractions": 1
   },
   "index": {
@@ -53,6 +53,6 @@
     "topics": {},
     "phrases": {},
     "similarityMap": {},
-    "lastIndexed": "2026-07-11T15:12:26.891Z"
+    "lastIndexed": "2026-07-11T15:40:41.090Z"
   }
 }
