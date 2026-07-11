@@ -1,4 +1,13 @@
 {
   "email": "0f0d0a0c17400409071b4b45412908034c0209574e5c5f",
-  "projects": {}
+  "projects": {
+    "11773a01-a6ce-477b-ba23-a9fa8847d65f": {
+      "projectId": "11773a01-a6ce-477b-ba23-a9fa8847d65f",
+      "projectTitle": "نبات",
+      "isPublic": false,
+      "references": [],
+      "citations": {},
+      "lastUpdated": "2026-07-11T17:42:21.964Z"
+    }
+  }
 }
