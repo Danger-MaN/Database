@@ -2,7 +2,22 @@
   "projectId": "11773a01-a6ce-477b-ba23-a9fa8847d65f",
   "projectTitle": "نبات",
   "isPublic": false,
-  "references": [],
-  "citations": {},
-  "lastUpdated": "2026-07-11T17:42:50.490Z"
+  "references": [
+    {
+      "id": "ref-1783791799997-cbf67",
+      "title": "علم النبات",
+      "url": "https://researcher.by-magdi.workers.dev/projects/11773a01-a6ce-477b-ba23-a9fa8847d65f",
+      "author": "ادم",
+      "year": 2026,
+      "type": "website",
+      "citation": "ادم (2026). علم النبات. تم الاسترجاع من https://researcher.by-magdi.workers.dev/projects/11773a01-a6ce-477b-ba23-a9fa8847d65f",
+      "notes": "اختياري",
+      "projectId": "11773a01-a6ce-477b-ba23-a9fa8847d65f",
+      "addedAt": "2026-07-11T17:43:19.997Z"
+    }
+  ],
+  "citations": {
+    "ref-1783791799997-cbf67": "ادم (2026). علم النبات. تم الاسترجاع من https://researcher.by-magdi.workers.dev/projects/11773a01-a6ce-477b-ba23-a9fa8847d65f"
+  },
+  "lastUpdated": "2026-07-11T17:43:19.997Z"
 }
