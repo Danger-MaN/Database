@@ -4,19 +4,20 @@
   "isPublic": false,
   "references": [
     {
-      "id": "ref-1783793827593-ea2kv",
-      "title": "https://researcher.by-magdi.workers.dev/projects/fff5c6a3-b085-43fb-81e0-219f4b826634",
+      "id": "ref-1783793896636-cikba",
+      "title": "علم النبات",
       "url": "https://researcher.by-magdi.workers.dev/projects/fff5c6a3-b085-43fb-81e0-219f4b826634",
-      "author": "",
+      "author": "ادم",
+      "year": 2026,
       "type": "website",
-      "citation": "مؤلف غير معروف (س.د). https://researcher.by-magdi.workers.dev/projects/fff5c6a3-b085-43fb-81e0-219f4b826634. تم الاسترجاع من https://researcher.by-magdi.workers.dev/projects/fff5c6a3-b085-43fb-81e0-219f4b826634",
-      "notes": "",
+      "citation": "ادم (2026). علم النبات. تم الاسترجاع من https://researcher.by-magdi.workers.dev/projects/fff5c6a3-b085-43fb-81e0-219f4b826634",
+      "notes": "اختياري",
       "projectId": "fff5c6a3-b085-43fb-81e0-219f4b826634",
-      "addedAt": "2026-07-11T18:17:07.593Z"
+      "addedAt": "2026-07-11T18:18:16.636Z"
     }
   ],
   "citations": {
-    "ref-1783793827593-ea2kv": "مؤلف غير معروف (س.د). https://researcher.by-magdi.workers.dev/projects/fff5c6a3-b085-43fb-81e0-219f4b826634. تم الاسترجاع من https://researcher.by-magdi.workers.dev/projects/fff5c6a3-b085-43fb-81e0-219f4b826634"
+    "ref-1783793896636-cikba": "ادم (2026). علم النبات. تم الاسترجاع من https://researcher.by-magdi.workers.dev/projects/fff5c6a3-b085-43fb-81e0-219f4b826634"
   },
-  "lastUpdated": "2026-07-11T18:17:07.593Z"
+  "lastUpdated": "2026-07-11T18:18:16.636Z"
 }
