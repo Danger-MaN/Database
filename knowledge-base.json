@@ -1,15 +1,15 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-13T16:33:30.348Z",
+  "lastUpdated": "2026-07-13T16:33:48.659Z",
   "statistics": {
-    "totalConversations": 1,
-    "totalQuestions": 1,
-    "totalAnswers": 1,
+    "totalConversations": 2,
+    "totalQuestions": 2,
+    "totalAnswers": 2,
     "totalTopics": 0,
     "aiSaves": 0,
     "totalCostSaved": 0,
-    "totalFacts": 0,
-    "uniqueFacts": 0,
+    "totalFacts": 1,
+    "uniqueFacts": 1,
     "compressedFacts": 0
   },
   "topics": {},
@@ -23,13 +23,39 @@
       "topics": [],
       "quality": 0.3,
       "confidence": 0.3
+    },
+    {
+      "id": "conv-1783960428659-y49bp",
+      "userMessage": "بخير وانتا ايه اخبارك ؟",
+      "aiResponse": "لا توجد أخبار جديدة. ما زلت متاحاً لخدمتك. ما هو ما تود أن نتكلم عنه؟",
+      "timestamp": "2026-07-13T16:33:48.659Z",
+      "topics": [],
+      "quality": 0.3,
+      "confidence": 0.3
     }
   ],
-  "learnedFacts": [],
+  "learnedFacts": [
+    {
+      "id": "fact-1783960428659-rv480",
+      "fact": "أخبار جديدة",
+      "confidence": 0.7,
+      "topics": [],
+      "verified": false,
+      "timestamp": "2026-07-13T16:33:48.659Z",
+      "source": "conv-1783960428659-y49bp"
+    }
+  ],
   "commonQuestions": [
     {
       "question": "مساء الخير",
       "answer": "كيف حالك؟",
+      "frequency": 1,
+      "topics": [],
+      "confidence": 0.5
+    },
+    {
+      "question": "بخير وانتا ايه اخبارك ؟",
+      "answer": "لا توجد أخبار جديدة. ما زلت متاحاً لخدمتك. ما هو ما تود أن نتكلم عنه؟",
       "frequency": 1,
       "topics": [],
       "confidence": 0.5
@@ -38,8 +64,8 @@
   "feedback": [],
   "metadata": {
     "createdAt": "2026-07-13T16:33:28.835Z",
-    "updatedAt": "2026-07-13T16:33:30.348Z",
-    "totalInteractions": 1
+    "updatedAt": "2026-07-13T16:33:48.659Z",
+    "totalInteractions": 2
   },
   "index": {
     "keywords": {
@@ -48,11 +74,23 @@
       ],
       "الخير": [
         "مساء الخير"
+      ],
+      "بخير": [
+        "بخير وانتا ايه اخبارك ؟"
+      ],
+      "وانتا": [
+        "بخير وانتا ايه اخبارك ؟"
+      ],
+      "ايه": [
+        "بخير وانتا ايه اخبارك ؟"
+      ],
+      "اخبارك": [
+        "بخير وانتا ايه اخبارك ؟"
       ]
     },
     "topics": {},
     "phrases": {},
     "similarityMap": {},
-    "lastIndexed": "2026-07-13T16:33:28.835Z"
+    "lastIndexed": "2026-07-13T16:33:48.659Z"
   }
 }
