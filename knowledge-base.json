@@ -1,1 +1,58 @@
-{}
+{
+  "version": "1.0",
+  "lastUpdated": "2026-07-13T16:33:28.835Z",
+  "statistics": {
+    "totalConversations": 1,
+    "totalQuestions": 1,
+    "totalAnswers": 1,
+    "totalTopics": 0,
+    "aiSaves": 0,
+    "totalCostSaved": 0,
+    "totalFacts": 0,
+    "uniqueFacts": 0,
+    "compressedFacts": 0
+  },
+  "topics": {},
+  "patterns": [],
+  "conversations": [
+    {
+      "id": "conv-1783960408835-pdyou",
+      "userMessage": "مساء الخير",
+      "aiResponse": "كيف حالك؟",
+      "timestamp": "2026-07-13T16:33:28.835Z",
+      "topics": [],
+      "quality": 0.3,
+      "confidence": 0.3
+    }
+  ],
+  "learnedFacts": [],
+  "commonQuestions": [
+    {
+      "question": "مساء الخير",
+      "answer": "كيف حالك؟",
+      "frequency": 1,
+      "topics": [],
+      "confidence": 0.5
+    }
+  ],
+  "feedback": [],
+  "metadata": {
+    "createdAt": "2026-07-13T16:33:28.835Z",
+    "updatedAt": "2026-07-13T16:33:28.835Z",
+    "totalInteractions": 1
+  },
+  "index": {
+    "keywords": {
+      "مساء": [
+        "مساء الخير"
+      ],
+      "الخير": [
+        "مساء الخير"
+      ]
+    },
+    "topics": {},
+    "phrases": {},
+    "similarityMap": {},
+    "lastIndexed": "2026-07-13T16:33:28.835Z"
+  }
+}
