@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-18T13:24:54.379Z",
+  "lastUpdated": "2026-07-18T13:25:09.244Z",
   "statistics": {
-    "totalConversations": 1,
-    "totalQuestions": 1,
-    "totalAnswers": 1,
+    "totalConversations": 2,
+    "totalQuestions": 2,
+    "totalAnswers": 2,
     "totalTopics": 1,
     "aiSaves": 0,
     "totalCostSaved": 0,
@@ -36,6 +36,15 @@
       ],
       "quality": 0.3,
       "confidence": 0.3
+    },
+    {
+      "id": "conv-1784381109244-zgyd3",
+      "userMessage": "لا",
+      "aiResponse": "إذاً. شكرًا على المحادثة. إذا لزم الأمر، يمكننا العودة إلى هذا الموضوع في وقت لاحق. أهلاً بالمراجعة.",
+      "timestamp": "2026-07-18T13:25:09.244Z",
+      "topics": [],
+      "quality": 0.3,
+      "confidence": 0.3
     }
   ],
   "learnedFacts": [],
@@ -48,13 +57,20 @@
         "المناقشة"
       ],
       "confidence": 0.5
+    },
+    {
+      "question": "لا",
+      "answer": "إذاً. شكرًا على المحادثة. إذا لزم الأمر، يمكننا العودة إلى هذا الموضوع في وقت لاحق. أهلاً بالمراجعة.",
+      "frequency": 1,
+      "topics": [],
+      "confidence": 0.5
     }
   ],
   "feedback": [],
   "metadata": {
     "createdAt": "2026-07-18T13:24:53.099Z",
-    "updatedAt": "2026-07-18T13:24:54.379Z",
-    "totalInteractions": 1
+    "updatedAt": "2026-07-18T13:25:09.244Z",
+    "totalInteractions": 2
   },
   "index": {
     "keywords": {
@@ -118,6 +134,6 @@
     },
     "phrases": {},
     "similarityMap": {},
-    "lastIndexed": "2026-07-18T13:24:53.099Z"
+    "lastIndexed": "2026-07-18T13:25:09.244Z"
   }
 }
