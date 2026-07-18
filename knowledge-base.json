@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-18T13:26:19.711Z",
+  "lastUpdated": "2026-07-18T13:26:20.768Z",
   "statistics": {
-    "totalConversations": 0,
-    "totalQuestions": 0,
-    "totalAnswers": 0,
+    "totalConversations": 1,
+    "totalQuestions": 1,
+    "totalAnswers": 1,
     "totalTopics": 0,
     "aiSaves": 1,
     "totalCostSaved": 0.02,
@@ -14,9 +14,27 @@
   },
   "topics": {},
   "patterns": [],
-  "conversations": [],
+  "conversations": [
+    {
+      "id": "conv-1784381180768-rnqo2",
+      "userMessage": "تقييم إيجابي للرد",
+      "aiResponse": "إذاً. شكرًا على المحادثة. إذا لزم الأمر، يمكننا العودة إلى هذا الموضوع في وقت لاحق. أهلاً بالمراجعة.",
+      "timestamp": "2026-07-18T13:26:20.768Z",
+      "topics": [],
+      "quality": 0.8,
+      "confidence": 0.8
+    }
+  ],
   "learnedFacts": [],
-  "commonQuestions": [],
+  "commonQuestions": [
+    {
+      "question": "تقييم إيجابي للرد",
+      "answer": "إذاً. شكرًا على المحادثة. إذا لزم الأمر، يمكننا العودة إلى هذا الموضوع في وقت لاحق. أهلاً بالمراجعة.",
+      "frequency": 1,
+      "topics": [],
+      "confidence": 1
+    }
+  ],
   "feedback": [
     {
       "id": "feedback-1784381179711",
@@ -28,14 +46,24 @@
   ],
   "metadata": {
     "createdAt": "2026-07-18T13:26:19.711Z",
-    "updatedAt": "2026-07-18T13:26:19.711Z",
-    "totalInteractions": 0
+    "updatedAt": "2026-07-18T13:26:20.768Z",
+    "totalInteractions": 1
   },
   "index": {
-    "keywords": {},
+    "keywords": {
+      "تقييم": [
+        "تقييم إيجابي للرد"
+      ],
+      "إيجابي": [
+        "تقييم إيجابي للرد"
+      ],
+      "للرد": [
+        "تقييم إيجابي للرد"
+      ]
+    },
     "topics": {},
     "phrases": {},
     "similarityMap": {},
-    "lastIndexed": "1970-01-01T00:00:00.000Z"
+    "lastIndexed": "2026-07-18T13:26:20.768Z"
   }
 }
