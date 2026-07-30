@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-30T23:36:26.907Z",
+  "lastUpdated": "2026-07-30T23:36:50.513Z",
   "global": {
     "conversations": [],
     "learnedFacts": [],
@@ -64,10 +64,19 @@
       }
     }
   },
-  "feedback": [],
+  "feedback": [
+    {
+      "id": "feedback-1785454610513",
+      "conversationId": "d6044ead-909c-4b6b-b528-29e238edc25e",
+      "projectId": "global",
+      "rating": 4,
+      "comment": "",
+      "timestamp": "2026-07-30T23:36:50.513Z"
+    }
+  ],
   "metadata": {
     "createdAt": "2026-07-30T23:36:26.907Z",
-    "updatedAt": "2026-07-30T23:36:26.907Z",
+    "updatedAt": "2026-07-30T23:36:50.513Z",
     "totalProjects": 1,
     "totalInteractions": 1
   },
