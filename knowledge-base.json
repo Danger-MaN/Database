@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "lastUpdated": "2026-07-30T23:36:50.513Z",
+  "lastUpdated": "2026-07-30T23:37:32.321Z",
   "global": {
     "conversations": [],
     "learnedFacts": [],
@@ -28,6 +28,15 @@
           ],
           "quality": 0.5,
           "confidence": 0.5
+        },
+        {
+          "id": "conv-1785454652321-jw3yq",
+          "userMessage": "كيف ذلك؟",
+          "aiResponse": "**سؤال:** كيف ظهرت المناهج النقدية الجديدة؟",
+          "timestamp": "2026-07-30T23:37:32.321Z",
+          "topics": [],
+          "quality": 0.5,
+          "confidence": 0.5
         }
       ],
       "learnedFacts": [],
@@ -39,6 +48,13 @@
           "topics": [
             "منهجية البحث"
           ],
+          "confidence": 0.7
+        },
+        {
+          "question": "كيف ذلك؟",
+          "answer": "**سؤال:** كيف ظهرت المناهج النقدية الجديدة؟",
+          "frequency": 1,
+          "topics": [],
           "confidence": 0.7
         }
       ],
@@ -55,10 +71,42 @@
         }
       },
       "statistics": {
+        "totalConversations": 2,
+        "totalQuestions": 2,
+        "totalAnswers": 2,
+        "totalTopics": 1,
+        "totalFacts": 0,
+        "uniqueFacts": 0
+      }
+    },
+    "0.8": {
+      "conversations": [
+        {
+          "id": "conv-1785454611682-kkmiq",
+          "userMessage": "تقييم إيجابي للرد",
+          "aiResponse": "**سؤال:** ما الذي أدى إلى تطور المناهج النقدية؟",
+          "timestamp": "2026-07-30T23:36:51.682Z",
+          "topics": [],
+          "quality": 0.5,
+          "confidence": 0.5
+        }
+      ],
+      "learnedFacts": [],
+      "commonQuestions": [
+        {
+          "question": "تقييم إيجابي للرد",
+          "answer": "**سؤال:** ما الذي أدى إلى تطور المناهج النقدية؟",
+          "frequency": 1,
+          "topics": [],
+          "confidence": 0.7
+        }
+      ],
+      "topics": {},
+      "statistics": {
         "totalConversations": 1,
         "totalQuestions": 1,
         "totalAnswers": 1,
-        "totalTopics": 1,
+        "totalTopics": 0,
         "totalFacts": 0,
         "uniqueFacts": 0
       }
@@ -76,9 +124,9 @@
   ],
   "metadata": {
     "createdAt": "2026-07-30T23:36:26.907Z",
-    "updatedAt": "2026-07-30T23:36:50.513Z",
-    "totalProjects": 1,
-    "totalInteractions": 1
+    "updatedAt": "2026-07-30T23:37:32.321Z",
+    "totalProjects": 2,
+    "totalInteractions": 3
   },
   "index": {
     "keywords": {
@@ -232,6 +280,21 @@
       ],
       "..الخ)": [
         "لطالما ساعد المنهج النقدي الارسطي وكان هو اهم المناهج المسيطرة في نقد العرض المسرحي لكن بعد ذلك ومع العصور تطورت المناهج النقدية بتطور الفكر الانساني و نتيجة اتطور المدارس و التيارات المسرحية ( الرومانسية و الرمزية و العبثية و التعبيرية و الملحمية و الواقعية ...الخ) فظهر المنهج الانطباعي و الصحفي  ثم ظهرت المناهج السياقية ( التاريخي و الاجتماعية و النفسي و الانثربولوجي) و المناهج النسقية ( السيميائي و التفكيكي و الدراماتورجي ..الخ)"
+      ],
+      "كيف": [
+        "كيف ذلك؟"
+      ],
+      "ذلك؟": [
+        "كيف ذلك؟"
+      ],
+      "تقييم": [
+        "تقييم إيجابي للرد"
+      ],
+      "إيجابي": [
+        "تقييم إيجابي للرد"
+      ],
+      "للرد": [
+        "تقييم إيجابي للرد"
       ]
     },
     "topics": {
@@ -263,6 +326,6 @@
       ]
     },
     "similarityMap": {},
-    "lastIndexed": "2026-07-30T23:36:26.907Z"
+    "lastIndexed": "2026-07-30T23:37:32.321Z"
   }
 }
